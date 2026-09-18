@@ -1,0 +1,50 @@
+AI USE DISCLOSURE
+CHEM 13 | Organic Chemistry (Lecture) | Asynchronous Activity No. 1
+
+Student: Sanorjo
+Course/Section: CHEM 13 – Organic Chemistry
+Project: Organic Compound Infographics
+
+AI Tools Used:
+- ChatGPT (OpenAI)
+- Perplexity AI
+
+Purpose of AI Assistance:
+AI was used as a support tool during the development of the organic chemistry infographic project. The assistance was used for brainstorming, research support, organization, chemistry explanations, wording/editing, and infographic planning.
+
+Specific AI Contributions:
+1. Brainstorming and topic development
+   - Generated and discussed ideas for organic compounds suitable for the project.
+   - Helped explore compound choices such as glycine, octane, and benzene.
+   - Helped develop connections between the compounds and the chosen creative themes.
+
+2. Chemistry explanations
+   - Explained concepts related to molecular structures, bonding, functional groups, aromaticity, properties, uses, and chemical behavior.
+   - Helped clarify the relationship between a compound's structure, functional groups, and its properties or biological functions.
+   - These explanations were used as study/research assistance rather than as a substitute for independent understanding.
+
+3. Research and source identification
+   - Perplexity AI was used primarily to search for and locate potentially useful references and sources for chemical information.
+   - ChatGPT was also used to assist in identifying potentially useful references and sources, including resources such as PubChem, NIST Chemistry WebBook, EPA, ATSDR, and LibreTexts.
+   - AI tools were used to help locate information, but the references and factual claims were independently checked before use.
+
+4. Writing and content organization
+   - Assisted with organizing information into the infographic sections.
+   - Helped shorten, rephrase, and improve wording for clarity and readability.
+   - AI-generated wording was treated as drafting/editing assistance and was independently reviewed rather than assumed to be automatically correct.
+
+5. Infographic and design planning
+   - Assisted in planning the layout, visual hierarchy, themes, color/style directions, and ways to communicate chemistry concepts clearly.
+   - Helped develop creative theme connections for the compounds, including superhero-inspired concepts.
+
+6. Technical assistance
+   - Provided general assistance with organizing project materials and technical tasks related to preparing the project files and portfolio.
+
+Student's Independent Work and Verification:
+The student remained responsible for selecting the final information used in the project, understanding the chemistry, checking factual claims, verifying numerical and physical-property data, reviewing safety and environmental information, checking references, and making the final decisions about the infographic's content and design. AI responses were treated as assistance and were not assumed to be authoritative.
+
+AI-Use Limitation:
+AI assistance was used to support brainstorming, learning, research assistance, organization, editing, and design planning. Chemistry facts, data, risks, references, and interpretations were independently checked before being included. Where project rules restrict the use of AI-generated wording or content, the final material was to be independently formulated or rewritten by the student rather than copied directly from AI output.
+
+Declaration:
+ChatGPT and Perplexity AI were used as academic support and research-assistance tools during the preparation of this project. Perplexity AI was used primarily for searching for references, while ChatGPT was used for brainstorming, chemistry explanations, organization, wording/editing, and infographic planning. Their contributions were limited to the areas described above, while the student retained responsibility for verification, final interpretation, and the completed work.
